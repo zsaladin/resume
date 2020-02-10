@@ -9,7 +9,7 @@
 ### Contributions
 - ICON Project
   - [Loopchain](https://github.com/icon-project/loopchain/graphs/contributors?from=2018-09-09&to=2020-02-10&type=a) - Blockchain Engine
-  - [LFT2](https://github.com/icon-project/lft2) - Consensus algorithm
+  - [LFT2](https://github.com/icon-project/LFT2/graphs/contributors?from=2019-06-02&to=2020-02-10&type=a) - Consensus algorithm
   - [Earlgrey](https://github.com/icon-project/earlgrey/graphs/contributors) - RPC with MQ
 - Ethereum
   - [Trinity](https://github.com/ethereum/trinity/pull/179) - Ethereum Client in Python
