@@ -8,11 +8,18 @@
 
 ### Contributions
 - ICON Project
-  - [Loopchain(Consensus Engine)](https://github.com/icon-project/loopchain/graphs/contributors?from=2018-09-09&to=2020-02-10&type=a)
-  - [LFT2(Consensus algorithm)](https://github.com/icon-project/lft2)
-  - [Earlgrey(RPC with MQ)](https://github.com/icon-project/earlgrey/graphs/contributors)
+  - [Loopchain](https://github.com/icon-project/loopchain/graphs/contributors?from=2018-09-09&to=2020-02-10&type=a) - Blockchain Engine
+  - [LFT2](https://github.com/icon-project/lft2) - Consensus algorithm
+  - [Earlgrey](https://github.com/icon-project/earlgrey/graphs/contributors) - RPC with MQ
 - Ethereum
-  - [Trinity(Ethereum in Python)](https://github.com/ethereum/trinity/pull/179)
-  - [PyTrie(Ethereum Merkle Patricia in Python)](https://github.com/ethereum/py-trie/pull/82)
-- Kademlia - [Kademlia(P2P network)](https://github.com/bmuller/kademlia/pulls?utf8=%E2%9C%93&q=zsaladin)
-- RustPython - [RustPython(Python implementation in Rust)](https://github.com/RustPython/RustPython/pulls?utf8=%E2%9C%93&q=zsaladin)
+  - [Trinity](https://github.com/ethereum/trinity/pull/179) - Ethereum Client in Python
+  - [PyTrie](https://github.com/ethereum/py-trie/pull/82) - Ethereum Merkle Patricia Trie in Python
+- Kademlia - [Kademlia](https://github.com/bmuller/kademlia/pulls?utf8=%E2%9C%93&q=zsaladin) - P2P network library
+- RustPython - [RustPython](https://github.com/RustPython/RustPython/pulls?utf8=%E2%9C%93&q=zsaladin) - Python implementation in Rust
+
+### Side Projects
+- [ICON SDK.net](https://github.com/zsaladin/IconSDK.Net) - ICON SDK for .net
+- [Show me my salary](https://github.com/zsaladin/show-me-my-salary) - DOUZONE paystub Viewer on multiple platforms
+- [Asyncoroutine](https://github.com/zsaladin/Asyncoroutine) - Asyncoroutine is a unity asset that allows you to use Coroutine and async/await together.
+- [AsCoroutine](https://github.com/zsaladin/AsCoroutine) - Unity Asset that allows you to use Coroutine  in a functional style.
+- [EssenstialEditor](https://github.com/zsaladin/EssentialEditor) - Unity Asset that exposes properties and methods of MonoBehaviour to inspector.
