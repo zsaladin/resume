@@ -9,7 +9,7 @@
 ### Contributions
 - ICON Project
   - [Loopchain(Consensus Engine)](https://github.com/icon-project/loopchain/graphs/contributors?from=2018-09-09&to=2020-02-10&type=a)
-  - LFT2(Consensus algorithm)
+  - [LFT2(Consensus algorithm)](https://github.com/icon-project/lft2)
   - [Earlgrey(RPC with MQ)](https://github.com/icon-project/earlgrey/graphs/contributors)
 - Ethereum
   - [Trinity(Ethereum in Python)](https://github.com/ethereum/trinity/pull/179)
