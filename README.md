@@ -13,7 +13,7 @@
   - [Earlgrey](https://github.com/icon-project/earlgrey/graphs/contributors) - RPC with MQ
 - Ethereum
   - [Trinity](https://github.com/ethereum/trinity/pull/179) - Ethereum Client in Python
-  - [PyTrie](https://github.com/ethereum/py-trie/pull/82) - Ethereum Merkle Patricia Trie in Python
+  - [PyTrie](https://github.com/ethereum/py-trie/issues?utf8=%E2%9C%93&q=author%3Azsaladin+) - Ethereum Merkle Patricia Trie in Python
 - Kademlia - [Kademlia](https://github.com/bmuller/kademlia/pulls?utf8=%E2%9C%93&q=zsaladin) - P2P network library
 - RustPython - [RustPython](https://github.com/RustPython/RustPython/pulls?utf8=%E2%9C%93&q=zsaladin) - Python implementation in Rust
 
