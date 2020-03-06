@@ -4,7 +4,7 @@
 
 ### Presentations
 - PyConKR 2018 - [Deep Dive into Coroutine](https://archive.pycon.kr/2018/program/42)
-- NDK 2016 - [Using LINQ in iOS, Unity](http://ndcreplay.nexon.com/NDC2016/sessions/NDC2016_0047.html)
+- NDC 2016 - [Using LINQ in iOS, Unity](http://ndcreplay.nexon.com/NDC2016/sessions/NDC2016_0047.html)
 
 ### Contributions
 - ICON Project
